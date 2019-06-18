@@ -10,4 +10,5 @@ The code is split in the following way:
 - BMIvsTSDm folder: Here is the code for the experiments comparing BMI versus TSDm.
 
 The code for the FSM Generator can be found in https://github.com/Colosu/FSTGenerator
+
 The code for the GPTSG tool can be found in https://github.com/Colosu/gptsg
